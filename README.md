@@ -1,5 +1,5 @@
-# resources
-resources for assignment
+# Resources
+
 
 Notes on 
 Git work flow 
